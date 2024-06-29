@@ -24,6 +24,4 @@
 
 `Media.css` - файл стилів із media-запитами, для адаптивного дизайну
 
-### Дизайн був взятий з [FrontendMentor.io]();
-
 ### Розробив: [Ivan Krysak (github: Ivandefender)](https://github.com/Ivandefender);
