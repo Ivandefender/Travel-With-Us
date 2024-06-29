@@ -1,8 +1,8 @@
 <h1 align="center">TRAVEL WITH US SITE</h1>
 
 <div align="center">
-    <a href="">View Project |</a>
-    <a href="">View Code</a>
+ <a href="https://ivandefender.github.io/Travel-With-Us/">View Project |</a>
+ <a href="https://github.com/Ivandefender/Travel-With-Us">View Code</a>
 </div>
 
 <p align="center">
